@@ -1,4 +1,4 @@
-<h1 align="center">Olá, meu nome é Rodrigo Araujo</h1>
+<h1>Olá, meu nome é Rodrigo Araujo</h1>
 
 <img style="width: 350px" alt="Jake" src="https://cdn.discordapp.com/attachments/747529331424755793/1197217030990991531/Jake.gif">
 
